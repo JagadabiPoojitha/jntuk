@@ -5,9 +5,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Simple Calculator</title>
-<body bgcolor="white">
+<body bgcolor="red">
 	<form method="get" action="./CalcServlet">
-
+<input type=" text" name="name" placeholder="Enter Name"> <br>
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>
 		<input type="text" name="num2" placeholder="Enter Number2"> <br>
 
